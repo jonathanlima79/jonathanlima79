@@ -13,7 +13,8 @@ E estou iniciando o aprendizado com:
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" />
  <br>
  <br>
- Contato comigo:
+
+Contato comigo:
  <br>
  <br>
  <a href="https://www.linkedin.com/in/jonathan-vieira-881001a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" /><a/>
