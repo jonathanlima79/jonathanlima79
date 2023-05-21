@@ -17,7 +17,7 @@ E estou iniciando o aprendizado com:
 Contato comigo:
  <br>
  <br>
- <a href="https://www.linkedin.com/in/jonathan-vieira-881001a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" /><a/>
+ <a href="https://www.linkedin.com/in/jonathanvieiralima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" /><a/>
   <br>
   <a href="mailto:vieiralima1984@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail" /></a>
   <br>
