@@ -18,7 +18,7 @@ E estou iniciando o aprendizado com:
  <br>
  <a href="https://www.linkedin.com/in/jonathan-vieira-881001a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" /><a/>
   <br>
-  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail" /></a>
+  <a href="mailto:vieiralima1984@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail" /></a>
   <br>
   <a href="https://api.whatsapp.com/send?phone=5527999232757&text=Ola!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-watsapp" /><a/>
     
