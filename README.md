@@ -20,7 +20,7 @@ E estou iniciando o aprendizado com:
   <br>
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo-gmail" /></a>
   <br>
-  <a href="https://www.whatsapp.com/?lang=pt_br/+5527999232757"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-watsapp" /><a/>
+  <a href="/https://api.whatsapp.com/send?phone=5527999232757&text=Ola!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-watsapp" /><a/>
     
     
   [![Jonathan stats](https://github-readme-stats.vercel.app/api?username=jonathanlima79)](https://github.com/anuraghazra/github-readme-stats)
